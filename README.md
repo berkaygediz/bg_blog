@@ -1,16 +1,36 @@
-# bg_blog
+# BG Blog
 
-A new Flutter project.
+BG Blog is a simple Flutter application that displays static content.
+
+## Features
+
+- The home page displays the latest blog posts.
+- Each blog post can be viewed on a separate page.
+- You can view the number of posts for users and the number of posts owned by each author in BG
+  Blog.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository:
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/berkaygediz/BG-Blog.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Open the project in your preferred IDE or text editor.
+3. Install the required packages by running the following command in the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+
+4. Run the app on an emulator or connected device:
+
+```
+flutter run
+```
+
+## Contributing
+
+Contributions are always welcome! If you find any issues or would like to suggest enhancements,
+please create a new issue or submit a pull request.
